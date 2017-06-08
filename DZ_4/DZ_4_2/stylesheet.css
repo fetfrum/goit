@@ -1,0 +1,36 @@
+.cell{
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+.board .cell:nth-child(odd){
+	background-color: #850000;
+}
+
+.board .cell:nth-child(even){
+	background-color: #FFFFFF;
+}
+.board {
+	width: 600px;
+}
+.clearfix{
+	clear: both;
+}
+
+#cell_2{
+	background-image: url("bishop.png");
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+
+#cell_4{
+	background-image: url("knight.png");
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+#cell_8{
+	background-image: url("rock.png");
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
