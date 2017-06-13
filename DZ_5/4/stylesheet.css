@@ -1,0 +1,37 @@
+.fullwrap{
+	width: 720px;
+	margin: 5px auto;
+	border: 1px solid #000;
+}
+.header{
+	min-height: 80px;
+	border: inherit;
+	margin: 5px;
+}
+.wrap{
+	border: inherit;
+	margin: 5px;
+}
+.main, .sidebar{
+	border: inherit;
+	padding: inherit;
+	min-height: 300px;
+	width: 200px;
+	float: right;
+	margin: 5px;
+}
+.main{
+	width: 489px;
+	margin-right: 0;
+	float: left;
+}
+
+.footer{
+	border: inherit;
+	margin: 5px;
+	min-height: 80px;
+}
+
+.clearfix{
+	clear: both;
+}
