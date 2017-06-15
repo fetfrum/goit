@@ -1,0 +1,24 @@
+.issue1{
+	background: green;
+}
+
+.issue1:hover{
+	background: yellow;
+}
+
+.issue1:active{
+	background: red;
+}
+
+
+.issue2{
+	background: violet;
+}
+
+.issue2:hover{
+	background: brown;
+}
+
+.issue2:active{
+	background: gold;
+}

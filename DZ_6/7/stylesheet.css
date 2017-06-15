@@ -1,0 +1,16 @@
+.figure{
+	background: black;
+	width: 145px;
+	height: 115px;
+	position: relative;
+	margin: auto;
+}
+
+.figure::before{
+	content: "\25C0";
+	color: black;
+	position: absolute;
+	font-size: 5em;
+	top: 3px;
+	left: -46px;
+}

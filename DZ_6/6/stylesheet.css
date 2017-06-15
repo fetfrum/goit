@@ -1,0 +1,5 @@
+p::before{
+	content: "\2602";
+	text-align: center;
+	display: block;
+}
