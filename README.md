@@ -1,3 +1,3 @@
-![GoIT <>](/img/logo-goit.png)
+![GoIT <>](https/img/logo-goit.png)
 #   Домашние задания по курсу
 ##  GoFrontend#2
